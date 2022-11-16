@@ -23,9 +23,9 @@ let info = () => {
 ┃Bagi Anda yang memiliki saldo lebih
 ┃bisa di donasikan melalui berikut ini.
 ┃
-┃D A N A : [ 0857-3079-4089 ]
-┃P U L S A : [ 0857-3079-4089 ]
-┃G O P A Y : [ 0857-3079-4089 ]
+┃D A N A : [ 085877064290 ]
+┃O V O : [ 085877064290 ]
+┃G O P A Y : [ 085877064290 ]
 ┗⬣
 
 note : *donasi seikhlasnya aja*`
